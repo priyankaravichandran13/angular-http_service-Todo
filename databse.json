@@ -1,0 +1,21 @@
+{
+	"records": [
+			{
+				"name": "priyanka",
+				"age" : "22"
+			},
+			{
+				"name": "krithika",
+				"age" : "22"
+			},
+			{
+				"name": "chand",
+				"age" : "20"
+			},
+			{
+				"name": "pavesh",
+				"age" : "28"
+			}
+			
+		]
+}
